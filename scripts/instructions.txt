@@ -1,0 +1,5 @@
+create the files in this repo on a default ubuntu 16.04 VM in the users home directory.
+
+Run docker-compose with sudo otherwise you'll get an error.
+
+Run the docker scale as yourself.  Will need to wait 2 mins for all nodes to appear in the console.

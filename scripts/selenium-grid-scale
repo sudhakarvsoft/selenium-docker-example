@@ -1,0 +1,1 @@
+sudo docker-compose scale chrome=15 firefox=15
